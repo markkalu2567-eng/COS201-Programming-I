@@ -4,9 +4,9 @@ Week 2: Development Environment and First Java Program
 
 Student Information
 
-Name: UBI NOBLE DAVID
-Matriculation 25/17329
-Programme: computer science
+Name: Kalu Mark
+Matriculation 25/18418
+Programme: Cyber Security 
 Course: COS 201
 Week: 2
 Practical Title
